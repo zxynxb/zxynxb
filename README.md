@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Zainab, a passionate Web Developer and Computer Science student based in Pakistan, also known as [ZainabDev](https://github.com/ZainabDev).
+I'm Zainab, a passionate Web Developer and Computer Science student based in Pakistan, aka [ZainabDev](https://github.com/ZainabDev).
 
 ## 📦 Toolbox
 
